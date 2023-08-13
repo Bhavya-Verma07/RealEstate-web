@@ -19,6 +19,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -41,6 +43,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://bhavya-verma07.github.io/RealEstate-web",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
