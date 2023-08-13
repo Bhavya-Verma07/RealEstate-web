@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RealEstate-web/static/css/main.fd288f9e.css",
+    "main.js": "/RealEstate-web/static/js/main.c99b13d9.js",
+    "static/media/realtor.jpg": "/RealEstate-web/static/media/realtor.178b4b39637aab38a6e5.jpg",
+    "static/media/apartm.jpg": "/RealEstate-web/static/media/apartm.4daaa948f42fa3cea83b.jpg",
+    "static/media/img3.jpg": "/RealEstate-web/static/media/img3.a5bf9dbc1e6180899c36.jpg",
+    "static/media/img6.jpg": "/RealEstate-web/static/media/img6.15e4a3a7972563482975.jpg",
+    "static/media/img5.jpg": "/RealEstate-web/static/media/img5.f2bfd506a643f42b2561.jpg",
+    "static/media/img4.jpg": "/RealEstate-web/static/media/img4.46d1d3557d544a4f5518.jpg",
+    "index.html": "/RealEstate-web/index.html",
+    "main.fd288f9e.css.map": "/RealEstate-web/static/css/main.fd288f9e.css.map",
+    "main.c99b13d9.js.map": "/RealEstate-web/static/js/main.c99b13d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd288f9e.css",
+    "static/js/main.c99b13d9.js"
+  ]
+}
