@@ -1,0 +1,17 @@
+.bgApp{
+  /* background-color: rgba(195, 98, 244, 0.851); */
+ 
+  background-image: linear-gradient(90deg, #cc75f5 0%, #ba89d0 35%, #f1ecf3 100%);
+border: 1px;
+border-radius: 1%;
+padding: 5%;
+}
+
+
+.forCards{
+
+
+      display: 'flex'
+}
+
+
